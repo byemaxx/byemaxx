@@ -1,5 +1,6 @@
 # Qing Wu (@byemaxx)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0871--9840-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0871-9840)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Dkig3fkAAAAJ&hl)
 
 <table>
   <tr>
@@ -25,7 +26,7 @@
 
 ## Featured Projects (Research)
 
-### 🧬 MetaX — OTF (Operational Taxon-Function) for Metaproteomics
+### 🧬 MetaX — OTF (Operational Taxon-Function) for Metaproteomics comprehensive analysis platform
 A peptide-centric framework that links peptide sequences to **taxonomy** and **function**, enabling “who is doing what” analysis via **Operational Taxon-Function (OTF)**.
 
 - **Repo:** [byemaxx/MetaX](https://github.com/byemaxx/MetaX)  
