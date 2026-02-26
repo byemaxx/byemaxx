@@ -86,13 +86,13 @@ Batch runner for large-scale positive selection scans using PAML codeml branch-s
 
 I also build small Android/Xposed tools when I run into real-world friction:
 
-### 📱 PlayVersionSpoofer — stop Google Play Store self-updates via version spoofing
+### PlayVersionSpoofer — stop Google Play Store self-updates via version spoofing
 - **Repo:** [byemaxx/PlayVersionSpoofer](https://github.com/byemaxx/PlayVersionSpoofer)
 
-### 📲 FirstBusAutoNFC — mitigate unintended Wallet pop-ups during NFC ticket scanning
+### FirstBusAutoNFC — mitigate unintended Wallet pop-ups during NFC ticket scanning
 - **Repo:** [byemaxx/FirstBusAutoNFC](https://github.com/byemaxx/FirstBusAutoNFC)
 
-### 💳 TapAPDU — NFC / APDU tooling & debugging
+### TapAPDU — NFC / APDU tooling & debugging
 - **Repo:** [byemaxx/TapAPDU](https://github.com/byemaxx/TapAPDU)
 
 ---
@@ -101,12 +101,6 @@ I also build small Android/Xposed tools when I run into real-world friction:
 
 - Languages: **Python**, **R**, **JavaScript**, **Kotlin**, **Java**
 - Typical work: data wrangling, statistics, visualization, pipeline automation, UI tools
-
----
-
-## Contact
-
-- GitHub: [github.com/byemaxx](https://github.com/byemaxx)
 
 ---
 
