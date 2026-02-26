@@ -37,7 +37,8 @@ A peptide-centric framework that links peptide sequences to **taxonomy** and **f
 ### 🌳 MetaTree — Browser-based heat-tree visualization for multi-group comparisons
 An entirely browser-based platform for interactive visualization of hierarchical quantitative data. MetaTree maps values onto **tree color**, **node size**, and **branch width**, and enables consistent cross-sample and cross-group comparisons by using a **shared reference topology** (all trees share the same structure).
 
-- **Repo:** [byemaxx/MetaTree](https://github.com/byemaxx/MetaTree)  
+- **Repo:** [byemaxx/MetaTree](https://github.com/byemaxx/MetaTree)
+- **Web:** [MetaTree Web](https://byemaxx.github.io/MetaTree)
 - **Highlights:**
   - **Shared topology** across all trees to support consistent group comparisons  
   - Accepts hierarchical abundance tables and statistical result tables  
