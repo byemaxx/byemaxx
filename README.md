@@ -1,6 +1,7 @@
 # Qing Wu (@byemaxx)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0871--9840-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0871-9840)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Dkig3fkAAAAJ&hl)
+<img src="https://komarev.com/ghpvc/?username=byemaxx&label=Profile%20views" />
 
 <table>
   <tr>
@@ -35,11 +36,9 @@ Browser-based platform for aligned visualization and comparison of hierarchical 
 
 ## Other Projects
 Bioinformatics: [BlastGUI](https://github.com/byemaxx/BlastGUI) · [SSREnricher](https://github.com/byemaxx/SSREnricher) · [gseaGUI](https://github.com/byemaxx/gseaGUI) · [SCFA_Marker](https://github.com/byemaxx/SCFA_Marker) · [callCodeml](https://github.com/byemaxx/callCodeml)  
-Android/Xposed: [PlayVersionSpoofer](https://github.com/byemaxx/PlayVersionSpoofer) · [FirstBusAutoNFC](https://github.com/byemaxx/FirstBusAutoNFC) · [TapAPDU](https://github.com/byemaxx/TapAPDU)
+Android: [PlayVersionSpoofer](https://github.com/byemaxx/PlayVersionSpoofer) · [FirstBusAutoNFC](https://github.com/byemaxx/FirstBusAutoNFC) · [TapAPDU](https://github.com/byemaxx/TapAPDU)
 
 ---
 
 ## Tech Stack
 Python · R · JavaScript · Kotlin · Java
-
-<img src="https://komarev.com/ghpvc/?username=byemaxx&label=Profile%20views" />
