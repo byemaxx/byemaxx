@@ -41,4 +41,5 @@ Android: [PlayVersionSpoofer](https://github.com/byemaxx/PlayVersionSpoofer) · 
 ---
 
 ## Tech Stack
-Python · R · JavaScript · Kotlin · Java
+- **Languages:** Python · R · JavaScript · Kotlin · Java  
+- **Tooling:** Linux · Docker · Git · Conda · Snakemake
