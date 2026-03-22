@@ -1,4 +1,4 @@
-# Qing Wu (@byemaxx)
+# Qing (@byemaxx)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0871--9840-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0871-9840)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Dkig3fkAAAAJ&hl)
 <img src="https://komarev.com/ghpvc/?username=byemaxx&label=Profile%20views" />
