@@ -28,7 +28,7 @@ Peptide-centric framework linking peptide evidence to <b>taxonomy</b> and <b>fun
 <i>Analytical Chemistry</i> (2025). DOI: 10.1021/acs.analchem.4c06645  
 [Repo](https://github.com/byemaxx/MetaX) · [Docs](https://byemaxx.github.io/MetaX/)
 
-### 🧩 [MetaUmbra](https://github.com/byemaxx/MetaUmbra) — genome-level presence inference from metaproteomic peptides
+### 🦠 [MetaUmbra](https://github.com/byemaxx/MetaUmbra) — genome-level presence inference from metaproteomic peptides
 Peptide-centric framework for identifying statistically supported microbial genomes from metaproteomic peptides.  
 [Repo](https://github.com/byemaxx/MetaUmbra)
 
