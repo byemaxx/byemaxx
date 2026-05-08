@@ -30,7 +30,7 @@ Peptide-centric framework linking peptide evidence to <b>taxonomy</b> and <b>fun
 
 ### 🦠 [MetaUmbra](https://github.com/byemaxx/MetaUmbra) — genome-level presence inference from metaproteomic peptides
 Peptide-centric framework for identifying statistically supported microbial genomes from metaproteomic peptides.  
-[Repo](https://github.com/byemaxx/MetaUmbra)
+[Repo](https://github.com/byemaxx/MetaUmbra) · [Docs](https://github.com/byemaxx/MetaUmbra/blob/main/docs/usage.md)
 
 ### 🌳 [MetaTree](https://github.com/byemaxx/MetaTree) — topology-consistent heat-tree comparison
 Browser-based platform for aligned visualization and comparison of hierarchical profiles on a shared reference topology.  
@@ -40,7 +40,7 @@ Browser-based platform for aligned visualization and comparison of hierarchical 
 
 ## Other Projects
 Bioinformatics: [BlastGUI](https://github.com/byemaxx/BlastGUI) · [SSREnricher](https://github.com/byemaxx/SSREnricher) · [gseaGUI](https://github.com/byemaxx/gseaGUI) · [SCFA_Marker](https://github.com/byemaxx/SCFA_Marker) · [callCodeml](https://github.com/byemaxx/callCodeml)  
-Android: [PlayVersionSpoofer](https://github.com/byemaxx/PlayVersionSpoofer) · [FirstBusAutoNFC](https://github.com/byemaxx/FirstBusAutoNFC) · [TapAPDU](https://github.com/byemaxx/TapAPDU)
+Android: [PlayVersionSpoofer](https://github.com/byemaxx/PlayVersionSpoofer) · [FirstBusAutoNFC](https://github.com/byemaxx/FirstBusAutoNFC) · [TapAPDU](https://github.com/byemaxx/TapAPDU) · [FastADB](https://github.com/byemaxx/FastADB)
 
 ---
 
