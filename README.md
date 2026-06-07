@@ -34,8 +34,9 @@ Peptide-centric framework for identifying statistically supported microbial geno
 
 ### 🌳 [MetaTree](https://github.com/byemaxx/MetaTree) — topology-consistent heat-tree comparison
 Browser-based platform for aligned visualization and comparison of hierarchical profiles on a shared reference topology.  
-[Repo](https://github.com/byemaxx/MetaTree) · [Web app](https://byemaxx.github.io/MetaTree)
 <i>BMC Bioinformatics</i> (2026). DOI: 10.1186/s12859-026-06475-3  
+[Repo](https://github.com/byemaxx/MetaTree) · [Web app](https://byemaxx.github.io/MetaTree)  
+
 
 ---
 
