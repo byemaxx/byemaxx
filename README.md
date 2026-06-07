@@ -23,8 +23,8 @@
 
 ## Key Projects
 
-### 🧬 [MetaX](https://github.com/byemaxx/MetaX) — Operational Taxon-Function (OTF) framework
-Peptide-centric framework linking peptide evidence to <b>taxonomy</b> and <b>function</b> for “who is doing what” analysis in metaproteomics.  
+### 🧬 [MetaX](https://github.com/byemaxx/MetaX) — Comprehensive metaproteomics analysis platform with an Operational Taxon-Function (OTF) framework
+Peptide-centric platform linking peptide evidence to <b>taxonomy</b> and <b>function</b> through the Operational Taxon-Function (OTF) framework, enabling taxon-function integration, differential analysis, and interactive visualization for “who is doing what” analysis in metaproteomics.  
 <i>Analytical Chemistry</i> (2025). DOI: 10.1021/acs.analchem.4c06645  
 [Repo](https://github.com/byemaxx/MetaX) · [Docs](https://byemaxx.github.io/MetaX/)
 
